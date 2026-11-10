@@ -1,0 +1,2 @@
+nDatasets,nRejected,rejectionRate,ciLow,ciHigh,nominalAlpha
+200,5,0.025,0.0107247196517613,0.057178340406642,0.05

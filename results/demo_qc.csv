@@ -1,0 +1,5 @@
+recording,included,badChannelFraction,componentFraction,retention,reasons
+rec01,1,0,0,0.875,
+rec02,1,0,0.03125,0.928571428571429,
+rec03,0,0.3125,NaN,NaN,bad channels 31.2% exceed the limit of 15.0%
+rec04,1,0,0.03125,0.955357142857143,

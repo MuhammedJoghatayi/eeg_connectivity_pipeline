@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: EEG Connectivity Pipeline
+message: >-
+  If you use this software, please cite it as below. This repository is a
+  portfolio artifact derived from research work; it is not the analysis code of
+  any published study, and running it does not reproduce any published result.
+type: software
+authors:
+  - family-names: Joghatayi
+    given-names: Muhammed
+abstract: >-
+  A MATLAB pipeline for EEG: trigger-level event reconstruction,
+  EEGLAB preprocessing (clean_rawdata, Picard, ICLabel) with criterion-based
+  subject QC, FieldTrip sensor connectivity (debiased squared weighted phase-lag index
+  as primary measure, with phase-locking value and coherence), Brain
+  Connectivity Toolbox graph analysis, and paired sign-flip inference with FDR
+  and the Network-Based Statistic. Optional extensions cover vigilance
+  confounds, exploratory template-based source connectivity, and power-envelope
+  correlation and mutual information.
+keywords:
+  - EEG
+  - functional connectivity
+  - phase-lag index
+  - graph theory
+  - network-based statistic
+  - EEGLAB
+  - FieldTrip
+license: BSD-3-Clause
+version: 1.0.0
+date-released: "2026-11-10"

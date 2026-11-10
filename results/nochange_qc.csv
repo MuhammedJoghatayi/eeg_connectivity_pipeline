@@ -1,0 +1,6 @@
+recording,included,badChannelFraction,componentFraction,retention,reasons
+rec01,1,0,0.03125,0.948529411764706,""
+rec02,1,0,0.03125,0.948529411764706,""
+rec03,1,0,0.0625,0.919117647058823,""
+rec04,0,0.3125,NaN,NaN,"bad channels 31.2% exceed the limit of 15.0%"
+rec05,0,0,0.0625,0.919117647058823,"Pre_Exposure_Switch has 14 epochs, below the required 15"
